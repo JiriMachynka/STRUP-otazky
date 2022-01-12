@@ -1,0 +1,10 @@
+C:\Users\jirka\Desktop\Programování\C#\STRUP-Otázky\bin\Debug\STRUP-Otázky.exe.config
+C:\Users\jirka\Desktop\Programování\C#\STRUP-Otázky\bin\Debug\STRUP-Otázky.exe
+C:\Users\jirka\Desktop\Programování\C#\STRUP-Otázky\bin\Debug\STRUP-Otázky.pdb
+C:\Users\jirka\Desktop\Programování\C#\STRUP-Otázky\obj\Debug\STRUP-Otázky.csprojAssemblyReference.cache
+C:\Users\jirka\Desktop\Programování\C#\STRUP-Otázky\obj\Debug\STRUP_Otázky.Properties.Resources.resources
+C:\Users\jirka\Desktop\Programování\C#\STRUP-Otázky\obj\Debug\STRUP-Otázky.csproj.GenerateResource.cache
+C:\Users\jirka\Desktop\Programování\C#\STRUP-Otázky\obj\Debug\STRUP-Otázky.csproj.CoreCompileInputs.cache
+C:\Users\jirka\Desktop\Programování\C#\STRUP-Otázky\obj\Debug\STRUP-Otázky.exe
+C:\Users\jirka\Desktop\Programování\C#\STRUP-Otázky\obj\Debug\STRUP-Otázky.pdb
+C:\Users\jirka\Desktop\Programování\C#\STRUP-Otázky\obj\Debug\STRUP_Otázky.Testovac.resources
